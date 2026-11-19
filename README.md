@@ -24,6 +24,9 @@ This repository contains **code only**. Model weights are published on Hugging F
 - **ja-error-detect-v1** — Japanese error-span detection for proofreading: flags likely-wrong spans across 6 error types, without proposing corrections.
   Weights: https://huggingface.co/japan-opendata/ja-error-detect-v1
   About: https://jpopendata.jp/models/ja-error-detect-v1/
+- **ja-address-ner-v1** — Japanese address extraction and decomposition with a dictionary linker that assigns municipality codes, or honestly returns "undetermined".
+  Weights: https://huggingface.co/japan-opendata/ja-address-ner-v1
+  About: https://jpopendata.jp/models/ja-address-ner-v1/
 
 More models will be added here as they are released. The full model shelf is at https://jpopendata.jp/models/ (pages in Japanese).
 
