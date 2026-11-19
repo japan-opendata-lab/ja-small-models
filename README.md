@@ -21,6 +21,9 @@ This repository contains **code only**. Model weights are published on Hugging F
 - **ja-phish-guard-v1** — Japanese phishing, fraud and spam detection, five-class text classification with a risk score.
   Weights: https://huggingface.co/japan-opendata/ja-phish-guard-v1
   About: https://jpopendata.jp/models/ja-phish-guard-v1/
+- **ja-error-detect-v1** — Japanese error-span detection for proofreading: flags likely-wrong spans across 6 error types, without proposing corrections.
+  Weights: https://huggingface.co/japan-opendata/ja-error-detect-v1
+  About: https://jpopendata.jp/models/ja-error-detect-v1/
 
 More models will be added here as they are released. The full model shelf is at https://jpopendata.jp/models/ (pages in Japanese).
 
