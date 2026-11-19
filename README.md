@@ -27,6 +27,9 @@ This repository contains **code only**. Model weights are published on Hugging F
 - **ja-address-ner-v1** — Japanese address extraction and decomposition with a dictionary linker that assigns municipality codes, or honestly returns "undetermined".
   Weights: https://huggingface.co/japan-opendata/ja-address-ner-v1
   About: https://jpopendata.jp/models/ja-address-ner-v1/
+- **ja-toxicity-guard-v1** — Japanese multi-label toxicity detection (7 labels) for prioritising human review, designed to leave legitimate criticism and quotation alone.
+  Weights: https://huggingface.co/japan-opendata/ja-toxicity-guard-v1
+  About: https://jpopendata.jp/models/ja-toxicity-guard-v1/
 
 More models will be added here as they are released. The full model shelf is at https://jpopendata.jp/models/ (pages in Japanese).
 
