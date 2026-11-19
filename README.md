@@ -15,6 +15,9 @@ This repository contains **code only**. Model weights are published on Hugging F
 - **ja-punct-restore-v1** — Japanese punctuation restoration for ASR transcripts, character-level token classification.
   Weights: https://huggingface.co/japan-opendata/ja-punct-restore-v1
   About: https://jpopendata.jp/models/ja-punct-restore-v1/
+- **ja-phish-guard-v1** — Japanese phishing, fraud and spam detection, five-class text classification with a risk score.
+  Weights: https://huggingface.co/japan-opendata/ja-phish-guard-v1
+  About: https://jpopendata.jp/models/ja-phish-guard-v1/
 
 More models will be added here as they are released. The full model shelf is at https://jpopendata.jp/models/ (pages in Japanese).
 
