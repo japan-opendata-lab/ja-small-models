@@ -30,6 +30,9 @@ This repository contains **code only**. Model weights are published on Hugging F
 - **ja-toxicity-guard-v1** — Japanese multi-label toxicity detection (7 labels) for prioritising human review, designed to leave legitimate criticism and quotation alone.
   Weights: https://huggingface.co/japan-opendata/ja-toxicity-guard-v1
   About: https://jpopendata.jp/models/ja-toxicity-guard-v1/
+- **ja-reading-tagger-v1** — Japanese reading tagger for furigana and text-to-speech: context-aware readings per span, specialised in homographs dictionaries cannot disambiguate.
+  Weights: https://huggingface.co/japan-opendata/ja-reading-tagger-v1
+  About: https://jpopendata.jp/models/ja-reading-tagger-v1/
 
 More models will be added here as they are released. The full model shelf is at https://jpopendata.jp/models/ (pages in Japanese).
 
