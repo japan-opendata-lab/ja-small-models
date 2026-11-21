@@ -33,6 +33,9 @@ This repository contains **code only**. Model weights are published on Hugging F
 - **ja-reading-tagger-v1** — Japanese reading tagger for furigana and text-to-speech: context-aware readings per span, specialised in homographs dictionaries cannot disambiguate.
   Weights: https://huggingface.co/japan-opendata/ja-reading-tagger-v1
   About: https://jpopendata.jp/models/ja-reading-tagger-v1/
+- **ja-nli-v1** — Japanese natural language inference (entailment / neutral / contradiction) for verifying generated text against its sources, trained only on synthetic data from commercially clean materials.
+  Weights: https://huggingface.co/japan-opendata/ja-nli-v1
+  About: https://jpopendata.jp/models/ja-nli-v1/
 - **ja-sentiment-v1** — Japanese sentiment classifier (positive / neutral / negative probabilities) trained only on verified synthetic data from commercially clean sources.
   Weights: https://huggingface.co/japan-opendata/ja-sentiment-v1
   About: https://jpopendata.jp/models/ja-sentiment-v1/
